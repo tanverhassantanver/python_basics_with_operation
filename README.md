@@ -1,6 +1,6 @@
 # 📘 Python Basics Practice
 
-This repository contains simple Python examples for beginners.
+This repository contains simple Python examples for beginners. 
 
 ## 📚 Topics Covered
 - Print statements
